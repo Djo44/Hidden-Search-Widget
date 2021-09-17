@@ -109,6 +109,7 @@ i {
 
 .container.active .input {
   width: 200px;
+  text-indent: 10px;
 }
 
 .container.active .btn {
